@@ -1,0 +1,5 @@
+# Mobile-Price-Prediction-Unveiling-Patterns-in-the-Smartphone-Market-
+This project revolves around assisting Bob, an entrepreneur entering the mobile phone industry, in estimating the prices of mobile phones his company produces. Leveraging the power of data mining and extensive data analysis, we delve into a comprehensive exploration of the mobile prices dataset.
+
+#AIM OF THE PROJECT
+In the ever-evolving mobile phone market, data-driven decision-making has become paramount for businesses aiming to gain a competitive edge. This project revolves around assisting Bob, an entrepreneur entering the mobile phone industry, in estimating the prices of mobile phones his company produces. Leveraging the power of data mining and extensive data analysis, we delve into a comprehensive exploration of the mobile prices dataset. From understanding data types and preprocessing to employing advanced machine learning techniques and big data tools, this project aims to provide actionable insights to guide Bob in making informed decisions.
